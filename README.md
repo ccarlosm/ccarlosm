@@ -1,6 +1,6 @@
 <h1 align="left" id="carloscrespo-title">
   <img src="https://raw.githubusercontent.com/Queopius/queopius/master/wave.gif" width="30"> 
-  Hello there! I'm Carlos C M
+  Hello there! I'm Carlos
 </h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Carlos%20Crespo%20Moreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-crespo-moreno/)](https://www.linkedin.com/in/carlos-crespo-moreno/)
